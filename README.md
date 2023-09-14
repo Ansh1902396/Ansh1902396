@@ -15,7 +15,7 @@
 This is just the percent of code in my repositories and does not represent my skill level.
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Tushars_071)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Rudransh190204)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
