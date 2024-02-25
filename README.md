@@ -92,12 +92,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
+## 🔥 Github Stats
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<img align="right" width="45%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif"/>
+
+<a href="https://github.com/Suryansh-23"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Suryansh-23&theme=radical&title_color=3996fa&show_icons=true"></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-23&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa"></a>
+<a href="https://github.com/Suryansh-23">
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suryansh-23&hide=html,css&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
 
 ## ✨ Some Amazing Open Source Projects
