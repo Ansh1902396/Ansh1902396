@@ -121,6 +121,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <!--   <a href="https://github.com/Suryansh-23">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Suryansh-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a> -->
 </p>
-*************
+
+## 🐥Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ansh1902396)](https://github.com/gazf/github-readme-twitter)
 
 <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
