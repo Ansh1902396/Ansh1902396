@@ -123,6 +123,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 
 ## 🐥Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ansh1902396)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rudransh190204)](https://github.com/gazf/github-readme-twitter)
 
 <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
