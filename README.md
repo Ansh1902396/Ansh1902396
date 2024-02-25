@@ -103,7 +103,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ## ✨ Some Amazing Open Source Projects
 
 <p align="left">
-  <a href="https://github.com/HireSight/Frontend"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Ansh1902396&repo=HireSight&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/HireSight/Frontend"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=HireSight&repo=Frontend&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
   <a href="https://github.com/Ansh1902396/AE-Forge"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
 
 <p align="center" style="margin-top: 4rem">
