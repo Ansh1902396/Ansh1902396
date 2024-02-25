@@ -96,10 +96,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <img align="right" width="45%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif"/>
 
-<a href="https://github.com/Ansh1902396"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Suryansh-23&theme=radical&title_color=3996fa&show_icons=true"></a>
+<a href="https://github.com/Ansh1902396"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&theme=radical&title_color=3996fa&show_icons=true"></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa"></a>
 <a href="https://github.com/Ansh1902396">
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suryansh-23&hide=html,css&layout=compact&langs_count=6&theme=radical"/>
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ansh1902396&hide=html,css&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
 
