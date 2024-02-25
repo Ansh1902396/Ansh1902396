@@ -108,13 +108,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <a href="https://github.com/Suryansh-23/X_Place"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
 
 <p align="center" style="margin-top: 4rem">
-  <a href="https://github.com/Suryansh-23?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/Suryansh-23?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSuryansh-23"/></a>
-  <a href="https://github.com/Suryansh-23?tab=followers">
+  <a href="https://github.com/Ansh1902396?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Suryansh-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Suryansh-23">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Suryansh-23&style=for-the-badge"/></a>
+    <a href="https://github.com/Ansh1902396">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Ansh1902396&style=for-the-badge"/></a>
 <!--   <a href="https://github.com/Suryansh-23">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Suryansh-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a> -->
 </p>
