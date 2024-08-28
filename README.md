@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Rudransh%20Shinghal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Believe%20it!%20I'm%20a%20Full%20Stack%20Ninja%20Developer!&descAlignY=51&descAlign=62" width="100%">
+  <img src="https://i.imgur.com/IprhK4v.gif" width="100%">
+</div>
+
+# Rudransh Shinghal - Believe It! 🍥
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5xaOcLOp1pSXl6KMSeI/giphy.gif" width="100%">
 </div>
 
 ## 🍥 Rudransh's Ninja Way
@@ -22,10 +28,14 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 - 📚 Reading Tales of the Sage (Sci-Fi Novels)
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/VBc6l3CqQonqo/giphy.gif" alt="Naruto Coding" width="100%">
+      <img src="https://media.giphy.com/media/jlSdNBuZvWNYj4d519/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/rrI3fZ8JjYLf2fBzDQ/giphy.gif" width="60%">
+</div>
 
 ## 🥷 Ninja Tech Arsenal
 
@@ -41,6 +51,10 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/vzHoIY0W6lqS1J3NkC/giphy.gif" width="60%">
+</div>
+
 ## 📊 Ninja Stats & Training Progress
 
 <table>
@@ -51,10 +65,14 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
     </td>
     <td width="40%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-      <img width="100%" src="https://media.giphy.com/media/bUDdWqDcG3DZm/giphy.gif" />
+      <img width="100%" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/0YjMBuAZpbVrQGSXZm/giphy.gif" width="60%">
+</div>
 
 ## 🏆 Ninja Achievements
 
@@ -66,6 +84,10 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 | ![Chunin Exam Victor](https://img.shields.io/badge/-Chunin%20Exam%20Victor-gold?style=for-the-badge) | Won 3 hackathons in 2023 |
 | ![Shadow Clone Debugger](https://img.shields.io/badge/-Shadow%20Clone%20Debugger-red?style=for-the-badge) | Found and fixed 50+ bugs in various projects |
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3kG5WxntT40wEkxA0f/giphy.gif" width="60%">
 </div>
 
 ## 🌟 Legendary Missions (Featured Projects)
@@ -82,9 +104,14 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/JHVFN2ZZtbataBKr7w/giphy.gif" width="60%">
+</div>
+
 ## 🍥 Ninja Coding Challenge
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3oqmXBCJxc6QoVa4hs/giphy.gif" width="60%">
   <h3>Can you decipher this secret jutsu?</h3>
   
   ```python
@@ -97,6 +124,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
   <details>
     <summary>Click to reveal the secret message!</summary>
     The decoded message is: "believe it!"
+    <img src="https://media.giphy.com/media/PkY30CRqSIr8OYsxQI/giphy.gif" width="100%">
   </details>
 </div>
 
@@ -115,7 +143,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1SRIkAu6yjrEdOnDm4/giphy.gif" width="60%">
+  <img src="https://media.giphy.com/media/11DFuwckOK9mdG/giphy.gif" width="60%">
 </div>
 
 <div align="center">
@@ -126,4 +154,6 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&text=Arigato%20for%20visiting%20my%20ninja%20profile!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80" />
+<div align="center">
+  <img src="https://media.giphy.com/media/gXgIZR62SLUQw/giphy.gif" width="100%">
+</div>
