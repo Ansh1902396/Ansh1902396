@@ -1,160 +1,128 @@
-<div align="center">
-  <img src="https://i.imgur.com/qXGfW4s.gif" width="100%">
-</div>
-
-# Rudransh Shinghal - Believe It! 🍥
+# Konichiwa 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/HMZMxv4.gif" width="100%">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-## 🍥 Rudransh's Ninja Way
+</br>
+</br>
+</br>
 
-<table>
-  <tr>
-    <td width="60%">
-      
-### 🌟 My Nindo (Ninja Way)
-Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a passion for open-source jutsu and development techniques. From DevOps to Blockchain, I love diving into new challenges faster than Naruto runs to Ichiraku Ramen! With the Will of Fire burning bright in my code, I'm always ready to collaborate and build something legendary.
 
-### 🎭 Current Missions
-- 📚 Mastering the Forbidden Scrolls (Data Structures & Algorithms)
-- 💻 Developing my own Ninja Tools (System Programming)
-- 🌐 Crafting Inter-village Communication Jutsu (Web Assembly)
+# About ME 💬 :
 
-### 🍜 When I'm Not on Missions
-- 🎮 Training in the Virtual Dojo (Gaming)
-- 📺 Studying Ancient Ninja Scrolls (Watching Anime)
-- 📚 Reading Tales of the Sage (Sci-Fi Novels)
-    </td>
-    <td width="40%">
-      <img src="https://i.imgur.com/ZlMXXhk.gif" width="100%">
-    </td>
-  </tr>
-</table>
+### Hey there! 👋 I'm Rudransh, a 20-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
 
-<div align="center">
-  <img src="https://i.imgur.com/lF7xHIS.gif" width="60%">
-</div>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-## 🥷 Ninja Tech Arsenal
+### - Learning :
+- ✨ Data Structures & Algorithm
+- ✨ System Programming
+- ✨ Web Assembly
 
-<div align="left">
 
-| Jutsu Category | Techniques |
-|----------------|------------|
-| Sealing Jutsu & Summoning | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Elemental Affinities | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| Ninja Tools | ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) |
-| Genjutsu (Web Illusions) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Forbidden Jutsu | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Sci Fi Novels 
 
-</div>
+</br>
+</br>
+</br>
 
-<div align="right">
-  <img src="https://i.imgur.com/xoCQ3lv.gif" width="60%">
-</div>
 
-## 📊 Ninja Stats & Training Progress
 
-<table>
-  <tr>
-    <td width="60%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="40%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-      <img width="100%" src="https://i.imgur.com/8cFIFAP.gif" />
-    </td>
-  </tr>
-</table>
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
-<div align="center">
-  <img src="https://i.imgur.com/H9FGax3.gif" width="60%">
-</div>
+<p align="center">
 
-## 🏆 Ninja Achievements
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
 
-<div align="center">
 
-| Badge | Description |
-|-------|-------------|
-| ![Open Source Ninja](https://img.shields.io/badge/-Open%20Source%20Ninja-orange?style=for-the-badge) | Contributed to 10+ open-source projects |
-| ![Chunin Exam Victor](https://img.shields.io/badge/-Chunin%20Exam%20Victor-gold?style=for-the-badge) | Won 3 hackathons in 2023 |
-| ![Shadow Clone Debugger](https://img.shields.io/badge/-Shadow%20Clone%20Debugger-red?style=for-the-badge) | Found and fixed 50+ bugs in various projects |
 
-</div>
+# Contact Me :
 
-<div align="center">
-  <img src="https://i.imgur.com/gY8dfTc.gif" width="60%">
-</div>
+<p>
+ </br>
 
-## 🌟 Legendary Missions (Featured Projects)
 
-<div align="center">
-  <a href="https://github.com/HireSight/Frontend">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
-  </a>
-  <a href="https://github.com/Ansh1902396/AE-Forge">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
-  </a>
-  <a href="https://github.com/Suryansh-23/X_Place">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
-  </a>
-</div>
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
-<div align="center">
-  <img src="https://i.imgur.com/f9ULCh1.gif" width="60%">
-</div>
 
-## 🍥 Ninja Coding Challenge
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<div align="center">
-  <img src="https://i.imgur.com/xZCvq7x.gif" width="60%">
-  <h3>Can you decipher this secret jutsu?</h3>
-  
-  ```python
-  def hidden_leaf_cipher(message):
-      return ''.join([chr((ord(char) - 97 + 13) % 26 + 97) if char.isalpha() else char for char in message.lower()])
+<a href="mailto:rudransh9shinghal@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://twitter.com/rudransh190204">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
 
-  print(hidden_leaf_cipher("oryvrir vg!"))
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-  ```
-  
-  <details>
-    <summary>Click to reveal the secret message!</summary>
-    The decoded message is: "believe it!"
-    <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(10).gif" width="100%">
-  </details>
-</div>
 
-## 📜 Ninja Scroll (Connect with me)
+## 🔥 Github Stats
 
-<div align="center">
-  <a href="mailto:rudransh9shinghal@gmail.com">
-    <img src="https://img.shields.io/badge/-Messenger%20Hawk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/">
-    <img src="https://img.shields.io/badge/-Ninja%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/rudransh190204">
-    <img src="https://img.shields.io/badge/-Chakra%20Tweets-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+<img align="right" width="45%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(11).gif" width="60%">
-</div>
+<a href="https://github.com/Ansh1902396"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&theme=radical&title_color=3996fa&show_icons=true"></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa"></a>
+<a href="https://github.com/Ansh1902396">
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ansh1902396&hide=html,css&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ansh1902396&color=orange&style=for-the-badge&label=Ninja%20Profile%20Views)
-[![GitHub followers](https://img.shields.io/github/followers/Ansh1902396.svg?style=for-the-badge&label=Ninja%20Followers&color=blue)](https://github.com/Ansh1902396?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Ansh1902396.svg?style=for-the-badge&label=Ninja%20Stars&color=yellow)](https://github.com/Ansh1902396?tab=repositories&sort=stargazers)
+## ✨ Some Amazing Open Source Projects
 
-</div>
+<p align="left">
+  <a href="https://github.com/HireSight/Frontend"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=HireSight&repo=Frontend&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Ansh1902396/AE-Forge"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Suryansh-23/X_Place"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(12).gif" width="100%">
-</div>
+<p align="center" style="margin-top: 4rem">
+  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSuryansh-23"/></a>
+  <a href="https://github.com/Ansh1902396?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Suryansh-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/Ansh1902396">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Ansh1902396&style=for-the-badge"/></a>
+<!--   <a href="https://github.com/Suryansh-23">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Suryansh-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a> -->
+</p>
+
+## 🐥Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rudransh190204)](https://github.com/gazf/github-readme-twitter)
+
+<img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
