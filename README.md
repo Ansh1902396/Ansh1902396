@@ -5,7 +5,7 @@
 # Rudransh Shinghal - Believe It! 🍥
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor.gif" width="100%">
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif" width="100%">
 </div>
 
 ## 🍥 Rudransh's Ninja Way
