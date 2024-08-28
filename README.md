@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(3).gif" width="100%">
+  <img src="https://i.imgur.com/qXGfW4s.gif" width="100%">
 </div>
 
 # Rudransh Shinghal - Believe It! 🍥
 
 <div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" width="100%">
+  <img src="https://i.imgur.com/HMZMxv4.gif" width="100%">
 </div>
 
 ## 🍥 Rudransh's Ninja Way
@@ -15,7 +15,7 @@
     <td width="60%">
       
 ### 🌟 My Nindo (Ninja Way)
-Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a passion for open source jutsu and development techniques. From DevOps to Blockchain, I love diving into new challenges faster than Naruto runs to Ichiraku Ramen! With the Will of Fire burning bright in my code, I'm always ready to collaborate and build something legendary.
+Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a passion for open-source jutsu and development techniques. From DevOps to Blockchain, I love diving into new challenges faster than Naruto runs to Ichiraku Ramen! With the Will of Fire burning bright in my code, I'm always ready to collaborate and build something legendary.
 
 ### 🎭 Current Missions
 - 📚 Mastering the Forbidden Scrolls (Data Structures & Algorithms)
@@ -28,13 +28,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 - 📚 Reading Tales of the Sage (Sci-Fi Novels)
     </td>
     <td width="40%">
-      <img src="https://tenor.com/view/naruto-naruto-shippuden-stare-staring-anime-gif-3136145668296335078" width="10">
+      <img src="https://i.imgur.com/ZlMXXhk.gif" width="100%">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(1).gif" width="60%">
+  <img src="https://i.imgur.com/lF7xHIS.gif" width="60%">
 </div>
 
 ## 🥷 Ninja Tech Arsenal
@@ -52,7 +52,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="right">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" width="60%">
+  <img src="https://i.imgur.com/xoCQ3lv.gif" width="60%">
 </div>
 
 ## 📊 Ninja Stats & Training Progress
@@ -65,13 +65,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
     </td>
     <td width="40%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-      <img width="100%" src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(4).gif" />
+      <img width="100%" src="https://i.imgur.com/8cFIFAP.gif" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(6).gif" width="60%">
+  <img src="https://i.imgur.com/H9FGax3.gif" width="60%">
 </div>
 
 ## 🏆 Ninja Achievements
@@ -87,7 +87,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(7).gif" width="60%">
+  <img src="https://i.imgur.com/gY8dfTc.gif" width="60%">
 </div>
 
 ## 🌟 Legendary Missions (Featured Projects)
@@ -105,13 +105,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(8).gif" width="60%">
+  <img src="https://i.imgur.com/f9ULCh1.gif" width="60%">
 </div>
 
 ## 🍥 Ninja Coding Challenge
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(9).gif" width="60%">
+  <img src="https://i.imgur.com/xZCvq7x.gif" width="60%">
   <h3>Can you decipher this secret jutsu?</h3>
   
   ```python
@@ -119,6 +119,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
       return ''.join([chr((ord(char) - 97 + 13) % 26 + 97) if char.isalpha() else char for char in message.lower()])
 
   print(hidden_leaf_cipher("oryvrir vg!"))
+
   ```
   
   <details>
