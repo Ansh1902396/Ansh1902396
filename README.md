@@ -54,16 +54,16 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:rudransh9shinghal@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+ <img src="https://skillicons.dev/icons?i=linkedin" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://twitter.com/rudransh190204">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+ <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
  </p>
  
@@ -107,7 +107,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Ansh1902396&style=for-the-badge"/></a>
 </p>
 
-## 🐥 Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rudransh190204&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+
 
 <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
