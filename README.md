@@ -28,7 +28,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 - 📚 Reading Tales of the Sage (Sci-Fi Novels)
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(2).gif" width="100%">
+      <img src="https://tenor.com/view/naruto-naruto-shippuden-stare-staring-anime-gif-3136145668296335078" width="10">
     </td>
   </tr>
 </table>
