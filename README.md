@@ -6,19 +6,26 @@
 
 ## 💫 About Me
 
-<img align="right" width="38%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<table>
+  <tr>
+    <td width="60%">
+      Hey there! 👋 I'm a 20-year-old tech enthusiast with a passion for open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a knack for clean code and a drive to make a difference, I'm always ready to collaborate and build something awesome.
 
-Hey there! 👋 I'm a 20-year-old tech enthusiast with a passion for open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a knack for clean code and a drive to make a difference, I'm always ready to collaborate and build something awesome.
+      ### 🚀 Current Focus
+      - 📚 Data Structures & Algorithms
+      - 💻 System Programming
+      - 🌐 Web Assembly
 
-### 🚀 Current Focus
-- 📚 Data Structures & Algorithms
-- 💻 System Programming
-- 🌐 Web Assembly
-
-### 🎮 When I'm Not Coding
-- 🎮 Gaming Addict
-- 📺 Watching Anime
-- 📚 Reading Sci-Fi Novels
+      ### 🎮 When I'm Not Coding
+      - 🎮 Gaming Addict
+      - 📺 Watching Anime
+      - 📚 Reading Sci-Fi Novels
+    </td>
+    <td width="40%">
+      <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Coding GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -46,6 +53,18 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast with a passion for open source
   <img width="60%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" />
 </div>
 
+## 🏆 Achievements
+
+<div align="center">
+
+| Badge | Description |
+|-------|-------------|
+| ![Open Source Contributor](https://img.shields.io/badge/-Open%20Source%20Contributor-brightgreen?style=for-the-badge) | Contributed to 10+ open-source projects |
+| ![Hackathon Winner](https://img.shields.io/badge/-Hackathon%20Winner-gold?style=for-the-badge) | Won 3 hackathons in 2023 |
+| ![Bug Hunter](https://img.shields.io/badge/-Bug%20Hunter-red?style=for-the-badge) | Found and fixed 50+ bugs in various projects |
+
+</div>
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -58,6 +77,24 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast with a passion for open source
   <a href="https://github.com/Suryansh-23/X_Place">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
   </a>
+</div>
+
+## 🎮 Coding Adventure
+
+<div align="center">
+  <h3>Join me on a coding adventure! Can you guess the output of this code?</h3>
+  
+  ```python
+  def mystery_function(x):
+      return ''.join(sorted(set(x)))
+
+  print(mystery_function("hello world"))
+  ```
+  
+  <details>
+    <summary>Click to reveal the answer!</summary>
+    The output is: " dehlloorw"
+  </details>
 </div>
 
 ## 📫 Let's Connect!
