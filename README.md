@@ -39,7 +39,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 
 ## 🥷 Ninja Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 | Jutsu Category | Techniques |
 |----------------|------------|
