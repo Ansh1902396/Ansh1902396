@@ -52,7 +52,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(5).gif" width="60%">
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" width="60%">
 </div>
 
 ## 📊 Ninja Stats & Training Progress
