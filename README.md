@@ -4,7 +4,7 @@
 
 # Rudransh Shinghal - Believe It! 🍥
 
-<div align="right">
+<div align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" width="100%">
 </div>
 
@@ -51,7 +51,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" width="60%">
 </div>
 
