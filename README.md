@@ -1,71 +1,74 @@
-# Konichiwa 👋 I'm Rudransh
-
 <div align="center">
-  <img height="300" width="100%" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Rudransh%20Shinghal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Believe%20it!%20I'm%20a%20Full%20Stack%20Ninja%20Developer!&descAlignY=51&descAlign=62" width="100%">
 </div>
 
-## 💫 About Me
+## 🍥 Rudransh's Ninja Way
 
 <table>
   <tr>
     <td width="60%">
-      Hey there! 👋 I'm a 20-year-old tech enthusiast with a passion for open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a knack for clean code and a drive to make a difference, I'm always ready to collaborate and build something awesome.
+      
+### 🌟 My Nindo (Ninja Way)
+Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a passion for open source jutsu and development techniques. From DevOps to Blockchain, I love diving into new challenges faster than Naruto runs to Ichiraku Ramen! With the Will of Fire burning bright in my code, I'm always ready to collaborate and build something legendary.
 
-      ### 🚀 Current Focus
-      - 📚 Data Structures & Algorithms
-      - 💻 System Programming
-      - 🌐 Web Assembly
+### 🎭 Current Missions
+- 📚 Mastering the Forbidden Scrolls (Data Structures & Algorithms)
+- 💻 Developing my own Ninja Tools (System Programming)
+- 🌐 Crafting Inter-village Communication Jutsu (Web Assembly)
 
-      ### 🎮 When I'm Not Coding
-      - 🎮 Gaming Addict
-      - 📺 Watching Anime
-      - 📚 Reading Sci-Fi Novels
+### 🍜 When I'm Not on Missions
+- 🎮 Training in the Virtual Dojo (Gaming)
+- 📺 Studying Ancient Ninja Scrolls (Watching Anime)
+- 📚 Reading Tales of the Sage (Sci-Fi Novels)
     </td>
     <td width="40%">
-      <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Coding GIF" width="100%">
+      <img src="https://media.giphy.com/media/VBc6l3CqQonqo/giphy.gif" alt="Naruto Coding" width="100%">
     </td>
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+## 🥷 Ninja Tech Arsenal
 
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| Version Control & Containers | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Languages | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| Tools | ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) |
-| Web Technologies | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Others | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
+| Jutsu Category | Techniques |
+|----------------|------------|
+| Sealing Jutsu & Summoning | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Elemental Affinities | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| Ninja Tools | ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+| Genjutsu (Web Illusions) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Forbidden Jutsu | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Ninja Stats & Training Progress
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="40%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
+      <img width="100%" src="https://media.giphy.com/media/bUDdWqDcG3DZm/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="60%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" />
-</div>
-
-## 🏆 Achievements
+## 🏆 Ninja Achievements
 
 <div align="center">
 
 | Badge | Description |
 |-------|-------------|
-| ![Open Source Contributor](https://img.shields.io/badge/-Open%20Source%20Contributor-brightgreen?style=for-the-badge) | Contributed to 10+ open-source projects |
-| ![Hackathon Winner](https://img.shields.io/badge/-Hackathon%20Winner-gold?style=for-the-badge) | Won 3 hackathons in 2023 |
-| ![Bug Hunter](https://img.shields.io/badge/-Bug%20Hunter-red?style=for-the-badge) | Found and fixed 50+ bugs in various projects |
+| ![Open Source Ninja](https://img.shields.io/badge/-Open%20Source%20Ninja-orange?style=for-the-badge) | Contributed to 10+ open-source projects |
+| ![Chunin Exam Victor](https://img.shields.io/badge/-Chunin%20Exam%20Victor-gold?style=for-the-badge) | Won 3 hackathons in 2023 |
+| ![Shadow Clone Debugger](https://img.shields.io/badge/-Shadow%20Clone%20Debugger-red?style=for-the-badge) | Found and fixed 50+ bugs in various projects |
 
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Legendary Missions (Featured Projects)
 
 <div align="center">
   <a href="https://github.com/HireSight/Frontend">
@@ -79,48 +82,48 @@
   </a>
 </div>
 
-## 🎮 Coding Adventure
+## 🍥 Ninja Coding Challenge
 
 <div align="center">
-  <h3>Join me on a coding adventure! Can you guess the output of this code?</h3>
+  <h3>Can you decipher this secret jutsu?</h3>
   
   ```python
-  def mystery_function(x):
-      return ''.join(sorted(set(x)))
+  def hidden_leaf_cipher(message):
+      return ''.join([chr((ord(char) - 97 + 13) % 26 + 97) if char.isalpha() else char for char in message.lower()])
 
-  print(mystery_function("hello world"))
+  print(hidden_leaf_cipher("oryvrir vg!"))
   ```
   
   <details>
-    <summary>Click to reveal the answer!</summary>
-    The output is: " dehlloorw"
+    <summary>Click to reveal the secret message!</summary>
+    The decoded message is: "believe it!"
   </details>
 </div>
 
-## 📫 Let's Connect!
+## 📜 Ninja Scroll (Connect with me)
 
 <div align="center">
   <a href="mailto:rudransh9shinghal@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Messenger%20Hawk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ninja%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/rudransh190204">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chakra%20Tweets-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif" width="60%">
+  <img src="https://media.giphy.com/media/1SRIkAu6yjrEdOnDm4/giphy.gif" width="60%">
 </div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ansh1902396&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Ansh1902396.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Ansh1902396?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Ansh1902396.svg?style=for-the-badge&label=Stars&maxAge=2592000)](https://github.com/Ansh1902396?tab=repositories&sort=stargazers)
+![](https://komarev.com/ghpvc/?username=Ansh1902396&color=orange&style=for-the-badge&label=Ninja%20Profile%20Views)
+[![GitHub followers](https://img.shields.io/github/followers/Ansh1902396.svg?style=for-the-badge&label=Ninja%20Followers&color=blue)](https://github.com/Ansh1902396?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Ansh1902396.svg?style=for-the-badge&label=Ninja%20Stars&color=yellow)](https://github.com/Ansh1902396?tab=repositories&sort=stargazers)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&text=Arigato%20for%20visiting%20my%20ninja%20profile!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80" />
