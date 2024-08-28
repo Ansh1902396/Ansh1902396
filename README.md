@@ -36,7 +36,7 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://skillicons.dev/icons?i=git,rust,docker,c,vim" />
 </br>
-<img src="https://skillicons.dev/icons?i=solidity,golang" />
+<img src="https://skillicons.dev/icons?i=solidity,golang,notion,bun" />
 </br>
 <img src="https://skillicons.dev/icons?i=next,react,wasm,typescript,javascript" />
 </p>
