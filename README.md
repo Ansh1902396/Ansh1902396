@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.imgur.com/IprhK4v.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(3).gif" width="100%">
 </div>
 
 # Rudransh Shinghal - Believe It! 🍥
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5xaOcLOp1pSXl6KMSeI/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor.gif" width="100%">
 </div>
 
 ## 🍥 Rudransh's Ninja Way
@@ -28,13 +28,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 - 📚 Reading Tales of the Sage (Sci-Fi Novels)
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/jlSdNBuZvWNYj4d519/giphy.gif" width="100%">
+      <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(2).gif" width="100%">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/rrI3fZ8JjYLf2fBzDQ/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(1).gif" width="60%">
 </div>
 
 ## 🥷 Ninja Tech Arsenal
@@ -52,7 +52,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/vzHoIY0W6lqS1J3NkC/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(5).gif" width="60%">
 </div>
 
 ## 📊 Ninja Stats & Training Progress
@@ -65,13 +65,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
     </td>
     <td width="40%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-      <img width="100%" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" />
+      <img width="100%" src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(4).gif" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/0YjMBuAZpbVrQGSXZm/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(6).gif" width="60%">
 </div>
 
 ## 🏆 Ninja Achievements
@@ -87,7 +87,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3kG5WxntT40wEkxA0f/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(7).gif" width="60%">
 </div>
 
 ## 🌟 Legendary Missions (Featured Projects)
@@ -105,13 +105,13 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JHVFN2ZZtbataBKr7w/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(8).gif" width="60%">
 </div>
 
 ## 🍥 Ninja Coding Challenge
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oqmXBCJxc6QoVa4hs/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(9).gif" width="60%">
   <h3>Can you decipher this secret jutsu?</h3>
   
   ```python
@@ -124,7 +124,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
   <details>
     <summary>Click to reveal the secret message!</summary>
     The decoded message is: "believe it!"
-    <img src="https://media.giphy.com/media/PkY30CRqSIr8OYsxQI/giphy.gif" width="100%">
+    <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(10).gif" width="100%">
   </details>
 </div>
 
@@ -143,7 +143,7 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/11DFuwckOK9mdG/giphy.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(11).gif" width="60%">
 </div>
 
 <div align="center">
@@ -155,5 +155,5 @@ Hey there, fellow shinobi! 👋 I'm Rudransh, a 20-year-old tech ninja with a pa
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gXgIZR62SLUQw/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Ansh1902396/Ansh1902396/cf1c70f1b0c8fcd1a46e34a33d3d86d83d5af7b6/tenor%20(12).gif" width="100%">
 </div>
