@@ -4,7 +4,7 @@
 
 # Rudransh Shinghal - Believe It! 🍥
 
-<div align="center">
+<div align="right">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" width="100%">
 </div>
 
