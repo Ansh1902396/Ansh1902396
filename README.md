@@ -98,6 +98,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 </div>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzM2Fob3NpdTYwYTR5a2Y2cjc4M21qbGN2N2ZwdG9sNjZ5M3UyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" alt="Yoda saying 'Open source projects, the path to enlightenment they are'" />
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 </p>
 
 ## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
