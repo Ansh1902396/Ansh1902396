@@ -71,7 +71,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
         </a>
         <br>
-        <img src="/api/placeholder/200/150" alt="Neo from The Matrix saying 'I know frontend'" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeXU1Zmxsc3Vsa2IwZ2libXdiOGtreHl3ZnE2OWZrb3Z2aHVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" alt="Neo from The Matrix saying 'I know frontend'" />
         <br>
         <i>"I know frontend."</i>
       </td>
