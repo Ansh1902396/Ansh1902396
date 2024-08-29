@@ -63,16 +63,41 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 
 ## ✨ Amazing Open Source Projects
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/HireSight/Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
+        </a>
+        <br>
+        <img src="/api/placeholder/200/150" alt="Neo from The Matrix saying 'I know frontend'" />
+        <br>
+        <i>"I know frontend."</i>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/Ansh1902396/AE-Forge">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
+        </a>
+        <br>
+        <img src="/api/placeholder/200/150" alt="Tony Stark working on his suit" />
+        <br>
+        <i>"Let's forge something amazing!"</i>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/Suryansh-23/X_Place">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
+        </a>
+        <br>
+        <img src="/api/placeholder/200/150" alt="Naruto using Shadow Clone Jutsu" />
+        <br>
+        <i>"Multi-repo no jutsu!"</i>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">
-  <a href="https://github.com/HireSight/Frontend">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
-  </a>
-  <a href="https://github.com/Ansh1902396/AE-Forge">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
-  </a>
-  <a href="https://github.com/Suryansh-23/X_Place">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
-  </a>
+  <img src="/api/placeholder/600/100" alt="Yoda saying 'Open source projects, the path to enlightenment they are'" />
 </p>
 
 ## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
