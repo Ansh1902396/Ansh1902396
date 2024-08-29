@@ -46,14 +46,14 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 
 ## 🔥 Github Stats
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 60%;">
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
   </div>
-  <div style="width: 35%;">
-    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" width="100%">
+  <div style="width: 35%; display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" width="100%" style="margin-bottom: 10px;">
     <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="100%">
   </div>
 </div>
