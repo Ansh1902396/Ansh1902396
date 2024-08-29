@@ -57,6 +57,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
     <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="100%">
   </div>
 </div>
+</div>
 
 ## ✨ Amazing Open Source Projects
 
