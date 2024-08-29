@@ -80,7 +80,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
         </a>
         <br>
-        <img src="/api/placeholder/200/150" alt="Tony Stark working on his suit" />
+        <img src="https://pin.it/4QN3BI2AS" alt="Tony Stark working on his suit" />
         <br>
         <i>"Let's forge something amazing!"</i>
       </td>
