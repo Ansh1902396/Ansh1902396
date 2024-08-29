@@ -52,6 +52,16 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Stats" />
       </td>
+      <td width="50%" rowspan="2">
+        <div align="right">
+          <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" width="400">
+        </div>
+        <div align="right" style="margin-top: 10px;">
+          <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="400">
+        </div>
+      </td>
+    </tr>
+    <tr>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Streak" />
       </td>
@@ -63,6 +73,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
     </tr>
   </table>
 </div>
+
 
 ## ✨ Amazing Open Source Projects
 
