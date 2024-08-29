@@ -1,27 +1,29 @@
-# <div align="center">Konichiwa 👋 I'm Rudransh Shinghal</div>
+# <div align="center" style="font-size: 36px;">Konichiwa 👋 I'm Rudransh Shinghal</div>
 
 <p align="center">
-  <a href="mailto:rudransh9shinghal@gmail.com"><img src="https://img.shields.io/badge/Email-rudransh9shinghal%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/"><img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Shinghal-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter"></a>
+  <a href="mailto:rudransh9shinghal@gmail.com"><img src="https://img.shields.io/badge/Email-rudransh9shinghal%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
+  <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/"><img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Shinghal-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
+  <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </p>
 
 <div align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
 </div>
 
-## About ME 💬
+## <span style="font-size: 30px;">About ME 💬</span>
 
 <img align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" width="400">
 
+<span style="font-size: 18px;">
 Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
+</span>
 
 - 🌱 **Learning:** Data Structures & Algorithms, System Programming, Web Assembly
 - 💼 **Open for:** Collaborations in DevOps, Blockchain, and Open Source projects
 - 💬 **Let's talk about:** System Design, Blockchain Technology, or the latest tech trends
 - 🎮 **Hobbies:** Gaming Addict, Watching Anime, Reading Sci-Fi Novels
 
-## 🛠️ Languages & Tools
+## <span style="font-size: 30px;">🛠️ Languages & Tools</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -44,9 +46,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-## 🔥 Github Stats
-
-## 🔥 Github Stats
+## <span style="font-size: 30px;">🔥 Github Stats</span>
 
 <div align="center">
   <table>
@@ -68,9 +68,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
   </table>
 </div>
 
-
-
-## ✨ Amazing Open Source Projects
+## <span style="font-size: 30px;">✨ Amazing Open Source Projects</span>
 
 <div align="center">
   <table>
@@ -98,68 +96,22 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
         </a>
         <br>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtbDZzdjZtb3FzNHZoOXlwcjhua2F3dzBlc2x0djQ3aWY2Y2wyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r5IgwkL8JUfRu/giphy.gif" alt="Naruto using Shadow Clone Jutsu" width="200" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtbDZzdjZtb3FzNHZoOXlwcjhua2F3dzBlc2x0djVjZm1vM2J1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5oGIdt1xapQ76/giphy.gif" alt="A hand drawing on a canvas" width="200" />
         <br>
-        <i>"Multi-repo no jutsu!"</i>
+        <i>"Let's make our mark on the world."</i>
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzM2Fob3NpdTYwYTR5a2Y2cjc4M21qbGN2N2ZwdG9sNjZ5M3UyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" alt="Yoda saying 'Open source projects, the path to enlightenment they are'" width="400" />
-</p>
-
-## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
+## <span style="font-size: 30px;">💬 Socials</span>
 
 <div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif" width="400">
-  <p>Ready to embark on an epic coding adventure? Whether you want to debug the matrix, raid a digital dungeon, or just chat about the latest tech, I'm your player two! 🕹️👾</p>
+  <a href="mailto:rudransh9shinghal@gmail.com"><img src="https://img.shields.io/badge/Email-rudransh9shinghal%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
+  <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/"><img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Shinghal-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
+  <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </div>
 
 <div align="center">
-
-  [![Email](https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudransh9shinghal@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-shinghal-264b37206/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rudransh190204)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh1902396)
-
-  <a href="mailto:rudransh9shinghal@gmail.com">
-    <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="60" height="60" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/">
-    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" height="60" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/rudransh190204">
-    <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="60" height="60" alt="Twitter">
-  </a>
-  <a href="https://github.com/Ansh1902396">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub">
-  </a>
-
-</div>
-
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Debugging+the+universe...;Compiling+cosmic+code...;Decrypting+alien+transmissions...;Loading+next+adventure...)
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repos" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAnsh1902396"/>
-  </a>
-  <a href="https://github.com/Ansh1902396?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ansh1902396?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ansh1902396">
-    <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Ansh1902396&style=for-the-badge"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fakatsuki-logo%2F&psig=AOvVaw14RtGoX71keJPGBB0Q91V0&ust=1725039595819000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNizm7ffmogDFQAAAAAdAAAAABAE" alt="Akatsuki cloud" width="50">
 </div>
