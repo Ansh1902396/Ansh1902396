@@ -46,12 +46,15 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 
 ## 🔥 Github Stats
 
+## 🔥 Github Stats
+
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Streak" style="margin-top: 20px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Stats" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Streak" width="100%" style="margin-top: 20px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" alt="Rudransh's Top Languages" width="100%" style="margin-top: 20px;" />
       </td>
       <td width="50%" valign="top">
         <div align="right">
@@ -62,13 +65,9 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" alt="Rudransh's Top Languages" />
-      </td>
-    </tr>
   </table>
 </div>
+
 
 
 ## ✨ Amazing Open Source Projects
