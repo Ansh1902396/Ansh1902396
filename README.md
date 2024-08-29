@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa 👋 I'm Rudransh Shinghal</h1>
+# <div align="center">Konichiwa 👋 I'm Rudransh Shinghal</div>
 
 <p align="center">
   <a href="mailto:rudransh9shinghal@gmail.com"><img src="https://img.shields.io/badge/Email-rudransh9shinghal%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -47,19 +47,22 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 ## 🔥 Github Stats
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
-      <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" width="400" align="right">
-    </div>
-    <div>
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
-      <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="400" align="right">
-    </div>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" alt="Rudransh's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" alt="Rudransh's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ## ✨ Amazing Open Source Projects
 
@@ -71,7 +74,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
         </a>
         <br>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeXU1Zmxsc3Vsa2IwZ2libXdiOGtreHl3ZnE2OWZrb3Z2aHVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" alt="Neo from The Matrix saying 'I know frontend'" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeXU1Zmxsc3Vsa2IwZ2libXdiOGtreHl3ZnE2OWZrb3Z2aHVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" alt="Neo from The Matrix saying 'I know frontend'" width="200" />
         <br>
         <i>"I know frontend."</i>
       </td>
@@ -80,7 +83,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
         </a>
         <br>
-        <img src="https://assets.pinterest.com/ext/embed.html?id=278589926950058018" alt="Tony Stark working on his suit" />
+        <img src="https://assets.pinterest.com/ext/embed.html?id=278589926950058018" alt="Tony Stark working on his suit" width="200" />
         <br>
         <i>"Let's forge something amazing!"</i>
       </td>
@@ -89,16 +92,16 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
         </a>
         <br>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtbDZzdjZtb3FzNHZoOXlwcjhua2F3dzBlc2x0djQ3aWY2Y2wyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r5IgwkL8JUfRu/giphy.gif" alt="Naruto using Shadow Clone Jutsu" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtbDZzdjZtb3FzNHZoOXlwcjhua2F3dzBlc2x0djQ3aWY2Y2wyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r5IgwkL8JUfRu/giphy.gif" alt="Naruto using Shadow Clone Jutsu" width="200" />
         <br>
         <i>"Multi-repo no jutsu!"</i>
       </td>
     </tr>
   </table>
 </div>
+
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzM2Fob3NpdTYwYTR5a2Y2cjc4M21qbGN2N2ZwdG9sNjZ5M3UyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" alt="Yoda saying 'Open source projects, the path to enlightenment they are'" />
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzM2Fob3NpdTYwYTR5a2Y2cjc4M21qbGN2N2ZwdG9sNjZ5M3UyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" alt="Yoda saying 'Open source projects, the path to enlightenment they are'" width="400" />
 </p>
 
 ## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
@@ -109,7 +112,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 </div>
 
 <div align="center">
-  
+
   [![Email](https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudransh9shinghal@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-shinghal-264b37206/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rudransh190204)
@@ -131,7 +134,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 </div>
 
 <div align="center">
-  
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Debugging+the+universe...;Compiling+cosmic+code...;Decrypting+alien+transmissions...;Loading+next+adventure...)
 
 </div>
