@@ -48,6 +48,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
 
 <div align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif" width="400" align="right">
+  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="400" align="right">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ansh1902396&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh1902396&theme=tokyonight&hide_border=true" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1902396&layout=compact&theme=tokyonight&hide_border=true" />
