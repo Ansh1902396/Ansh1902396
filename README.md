@@ -89,7 +89,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh-23&repo=X_Place&theme=tokyonight&hide_border=true" alt="X_Place">
         </a>
         <br>
-        <img src="/api/placeholder/200/150" alt="Naruto using Shadow Clone Jutsu" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtbDZzdjZtb3FzNHZoOXlwcjhua2F3dzBlc2x0djQ3aWY2Y2wyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r5IgwkL8JUfRu/giphy.gif" alt="Naruto using Shadow Clone Jutsu" />
         <br>
         <i>"Multi-repo no jutsu!"</i>
       </td>
