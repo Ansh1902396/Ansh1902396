@@ -82,12 +82,14 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
         <br>
         <i>"I know frontend."</i>
       </td>
-      <td width="33%" align="center">
+      <td align="center">
         <a href="https://github.com/Ansh1902396/AE-Forge">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
         </a>
         <br>
-        <img src="https://media.giphy.com/media/0lGOCxq1V8N7E1icuQ/giphy.gif?cid=790b76118mintj108nm6ncmmstkgo3s8otlf5puh66dv9q1e&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Tony Stark working on his suit" width="200" />
+        <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+          <iframe src="https://giphy.com/embed/0lGOCxq1V8N7E1icuQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+        </div>
         <br>
         <i>"Let's forge something amazing!"</i>
       </td>
