@@ -87,9 +87,7 @@ Hey there! 👋 I'm a 20-year-old tech enthusiast who's all about open source an
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
         </a>
         <br>
-        <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-          <iframe src="https://giphy.com/embed/0lGOCxq1V8N7E1icuQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-        </div>
+         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1enBydWNmb3R5Y2Vuc3YxbnN0NWRxaXI2eWljNjZub3R0MHk2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGOCxq1V8N7E1icuQ/giphy-downsized.gif" alt="Neo from The Matrix saying 'I know frontend'" width="200" />
         <br>
         <i>"Let's forge something amazing!"</i>
       </td>
